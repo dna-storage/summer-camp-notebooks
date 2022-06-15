@@ -1,7 +1,7 @@
 # summer-camp-survival-notebooks
 Jupyter notebooks to assist summer campers.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dna-storage/summer-camp-notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dna-storage/summer-camp-survival-notebooks/HEAD)
 
 Several Jupyter notebooks here can help you explore how to encode information into DNA.  Here are links to each one. The best way to use these notebooks is using mybinder.com. Click on the badge above and it will take you there.  Don't be discouraged if it takes a few minutes to load, because it will be worth it!
 
